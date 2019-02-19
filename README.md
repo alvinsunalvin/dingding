@@ -40,3 +40,7 @@ signed.merge.2018-12-04-14-38-35.rimet_10002068.apk 暂不支持8.1及以上andr
 ====2019.1.01====
 
 signed.merge.2019-01-10-15-14-18.com.alibaba.android.rimet_4.6.8_501.apk(钉钉) 支持android9.0
+
+===2019.2.19====
+
+signed.merge.2019-02-18-12-14-35.com.alibaba.android.rimet_4.6.8_501.apk 修复android8.0无法安装的bug
