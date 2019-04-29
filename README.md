@@ -44,3 +44,7 @@ signed.merge.2019-01-10-15-14-18.com.alibaba.android.rimet_4.6.8_501.apk(钉钉)
 ===2019.2.19====
 
 signed.merge.2019-02-18-12-14-35.com.alibaba.android.rimet_4.6.8_501.apk 修复android8.0无法安装的bug
+
+===2019.4.29====
+
+signed.merge.2019-04-29-13-53-36.rimet_10002068.apk 打包最新的钉钉，上传到百度云和微云
