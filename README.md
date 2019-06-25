@@ -48,3 +48,9 @@ signed.merge.2019-02-18-12-14-35.com.alibaba.android.rimet_4.6.8_501.apk 修复a
 ===2019.4.29====
 
 signed.merge.2019-04-29-13-53-36.rimet_10002068.apk 打包最新的钉钉，上传到百度云和微云
+
+===2019.6.25====
+
+signed.merge.2019-05-24-10-43-23.com.alibaba.android.rimet_4.6.29_522.apk这个在android9.0有问题，代码弄乱了，修改回来了。
+借了一个vivo iqoo，android9进行测试,没有问题了
+
