@@ -3,7 +3,7 @@
 
 由于钉钉版本更新，需要多次上传apk，但apk将近100M，以后不再向github上传apk，请使用百度云盘和微云下载。
 
-对原始钉钉的apk进行了加壳，在壳中实现了hook打卡功能，真正免root，支持android9.0(androidP)
+对原始钉钉的apk进行了加壳，在壳中实现了hook打卡功能，真正免root，支持android10.0(android Q)
 
 使用需安装一个钉钉修改版和一个控制端
 
