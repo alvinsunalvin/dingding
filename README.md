@@ -68,6 +68,6 @@ signed.merge.2019-05-24-10-43-23.com.alibaba.android.rimet_4.6.29_522.apk这个�
 借了一个vivo iqoo，android9进行测试,没有问题了
 
 
-signed.merge.2019-08-29-11-34-19.com.alibaba.android.rimet_4.7.5_540
+signed.merge.2019-08-29-11-34-19.com.alibaba.android.rimet_4.7.5_540.apk
 
-
+signed.merge.2019-09-02-11-15-59.com.alibaba.android.rimet_4.7.6_542.apk
