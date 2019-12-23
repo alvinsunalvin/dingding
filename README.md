@@ -3,10 +3,6 @@
 
 由于钉钉版本更新，需要多次上传apk，但apk将近100M，以后不再向github上传apk，请使用百度云盘和微云下载。
 
------百度云-----
-
-https://pan.baidu.com/s/1OyjNPIdN729AupaNzb6Ruw
-
 -----微云-----
 
 https://share.weiyun.com/5wp9efp
